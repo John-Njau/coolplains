@@ -1,0 +1,21 @@
+{
+  "name": "coolplains",
+  "displayName": "coolplains",
+  "description": "A cool theme for all developers.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coolplains",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coolplains-color-theme.json"
+      }
+    ]
+  }
+}
